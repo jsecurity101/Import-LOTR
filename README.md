@@ -27,6 +27,6 @@
 		
 3. Change the path to which `LOTR_users.csv` is located on line: 6 for `./import_LOTR.ps1`.
 
-4. Run `./import_LOTR.ps1`.
+4. Run `.\import_LOTR.ps1`.
 
 
